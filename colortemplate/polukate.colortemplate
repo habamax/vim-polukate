@@ -76,11 +76,9 @@ Normal        dark7       dark0
 Comment       comment     none
 /16/8         none        none       bold
 Constant      constant    none
-/8            constant    none
 Identifier    identifier  none
 /16/8         none        none
 Statement     statement   none       bold
-/16/8         statement   none       bold
 PreProc       preproc     none
 /8            dark6       none
 Type          type        none
