@@ -57,7 +57,7 @@ Color: uiShadow    #12121c 233 black
 
 Color: comment     #80808a 244 darkgrey
 Color: constant    #7fa7d7 110 blue
-Color: string      #8ec07c 107 green
+Color: string      #80c780 114 green
 Color: type        #d3869b 175 magenta
 Color: statement   #ffd75f 221 yellow
 Color: preproc     #87afaf 109 cyan

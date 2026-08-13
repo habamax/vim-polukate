@@ -83,7 +83,7 @@ hi! link yamlBlockMappingKey Statement
 hi Normal guifg=#dadada guibg=#1c1c26 guisp=NONE gui=NONE ctermfg=253 ctermbg=234 cterm=NONE term=NONE
 hi Added guifg=#8ec07c guibg=NONE guisp=NONE gui=NONE ctermfg=107 ctermbg=NONE cterm=NONE term=NONE
 hi Changed guifg=#c19552 guibg=NONE guisp=NONE gui=NONE ctermfg=137 ctermbg=NONE cterm=NONE term=NONE
-hi Character guifg=#8ec07c guibg=NONE guisp=NONE gui=NONE ctermfg=107 ctermbg=NONE cterm=NONE term=NONE
+hi Character guifg=#80c780 guibg=NONE guisp=NONE gui=NONE ctermfg=114 ctermbg=NONE cterm=NONE term=NONE
 hi ColorColumn guifg=NONE guibg=#262630 guisp=NONE gui=NONE ctermfg=NONE ctermbg=235 cterm=NONE term=reverse
 hi Comment guifg=#80808a guibg=NONE guisp=NONE gui=NONE ctermfg=244 ctermbg=NONE cterm=NONE term=bold
 hi Conceal guifg=#707080 guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE term=NONE
@@ -141,7 +141,7 @@ hi SpellRare guifg=NONE guibg=NONE guisp=#87afaf gui=undercurl ctermfg=109 cterm
 hi Statement guifg=#ffd75f guibg=NONE guisp=NONE gui=bold ctermfg=221 ctermbg=NONE cterm=bold term=NONE
 hi StatusLine guifg=#1c1c26 guibg=#9e9ea8 guisp=NONE gui=NONE ctermfg=234 ctermbg=247 cterm=NONE term=bold,reverse
 hi StatusLineNC guifg=#767680 guibg=#1c1c26 guisp=NONE gui=reverse ctermfg=243 ctermbg=234 cterm=reverse term=bold,underline
-hi String guifg=#8ec07c guibg=NONE guisp=NONE gui=NONE ctermfg=107 ctermbg=NONE cterm=NONE term=NONE
+hi String guifg=#80c780 guibg=NONE guisp=NONE gui=NONE ctermfg=114 ctermbg=NONE cterm=NONE term=NONE
 hi TabLine guifg=#767680 guibg=#1c1c26 guisp=NONE gui=reverse ctermfg=243 ctermbg=234 cterm=reverse term=bold,underline
 hi TabLineFill guifg=#dadada guibg=#767680 guisp=NONE gui=NONE ctermfg=253 ctermbg=243 cterm=NONE term=NONE
 hi TabLineSel guifg=#1c1c26 guibg=#9e9ea8 guisp=NONE gui=NONE ctermfg=234 ctermbg=247 cterm=NONE term=bold,reverse
