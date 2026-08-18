@@ -36,7 +36,7 @@ Color: diffText    #0f4f4f 23  darkcyan
 
 Color: uipink      #ff00af 199 magenta
 Color: uilime      #afff00 154 green
-Color: uiblack     #3a3a44 237 darkgrey
+Color: uiblack     #30303a 236 darkgrey
 Color: uiextra     #9e9e9e 247 gray
 Color: uiextrasel  #b2b2b2 249 gray
 Color: yasogrey    #262630 235 black
